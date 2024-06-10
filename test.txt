@@ -1,0 +1,1 @@
+here i am creating text file and basic of . java .txt . python .js
